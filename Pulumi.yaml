@@ -1,0 +1,3 @@
+name: kong-pulumi
+description: Pulumi program to create ec2 instance with security group for deploying Kong
+runtime: go
